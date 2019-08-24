@@ -1,0 +1,15 @@
+{
+  "name": "app-tree",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "next": "canary",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
